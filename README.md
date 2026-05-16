@@ -1,5 +1,6 @@
 # ATSInfra
-
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github)](https://github.com/sponsors/Nitish-1303)
+[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/yelurunitish)
 <div align="center">
 
 # Your resume looks perfect.
