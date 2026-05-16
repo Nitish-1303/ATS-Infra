@@ -1,0 +1,30 @@
+{
+  "name": "@atsinfra/sdk",
+  "version": "0.1.0",
+  "description": "ATSInfra JavaScript/TypeScript SDK",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "ats",
+    "resume",
+    "parser",
+    "sdk"
+  ],
+  "author": "ATSInfra Contributors",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "form-data": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "typescript": "^5.3.3",
+    "jest": "^29.7.0",
+    "@types/jest": "^29.5.11"
+  }
+}
